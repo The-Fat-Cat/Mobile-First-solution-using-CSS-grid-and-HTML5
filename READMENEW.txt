@@ -27,7 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
-1- I first downloaded all of the media and reosurces I would be needing to build the project.
+1- I first downloaded all of the media and resources I would be needing to build the project.
 2- I opened some websites I know I have been using a lot lately in my journey of learning. This was going to help prep my mind for thinking about some of the code I was going to be using and it also helps with motivation and planning. 
 3- I thoroughly read through instructions and tips and looked at everything I was provided with. This helped me see where I was starting and how the pieces all were going to connect so my mind can already start visualizing it coming together. 
 4- Then I opened the final design I was supposed to achieve and jotted down some patterns I noticed in the styling of the elements on a piece of paper. I also made notes about how the current HTML was layed out and how I needed to end up layed out. This helped me see how I could lay out my code to be more organized by simplifying the elements and styles down. This also helps my mind see the changes it needed to make to the given resources. 
