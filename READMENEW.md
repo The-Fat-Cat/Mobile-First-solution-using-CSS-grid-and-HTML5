@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-webpage-using-css-and-html-MNn7ln2TC
+- Live Site URL: https://the-fat-cat.github.io/QR-code-page-using-CSS-and-HTML/
 
 ## My process
 1- I first downloaded all of the media and resources I would be needing to build the project.
